@@ -2,30 +2,49 @@
   text-align: center;
 }
 .mainimg {
-height: 100%;
-width: 500px;
+height: 512px;
+width: 341.3px;
 
+
+}
+
+.logo{
+  align-items: center;
+  justify-items: center;
+  text-align: center;
+  display: block;
 }
 body {
 
   
-background: rgb(252, 227, 238);
+background: rgb(255, 249, 251);
 
 }
-h1 {
+h3 {
+  margin-top: 10px;
   color: #111;
   font-family: 'Helvetica Neue',
-  sans-serif; font-size: 275px;
+  sans-serif; font-size: 17px;
   font-weight: bold;
   letter-spacing: -1px;
   line-height: 1;
-  text-align: center; }
+   }
 
+   h1 {
+    margin-top: 10px;
+    color: #111;
+    font-family: 'Helvetica Neue',
+    sans-serif; font-size: 75px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: -1px;
+    line-height: 1;
+     }
 p { color: #685206;
   font-family: 'Helvetica Neue',
   sans-serif; font-size: 14px;
   line-height: 24px;
-  margin: 0 25px 24px;
+  margin-top: 10px;
   text-align: justify;
   text-justify: inter-word; }
 

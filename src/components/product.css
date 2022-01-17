@@ -1,0 +1,46 @@
+div{
+   /* display: block;
+    text-align: left;
+    display: flex;
+    position: relative;
+    */
+    text-align: left;
+
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+.image {
+
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    height: 512px;
+width: 341.3px;
+
+    margin-top: 10px;
+    
+    
+  
+}
+.image-name{
+
+    /*margin-top: 245px;*/
+    /*padding: 0.5em;*/
+    text-align: center;
+    
+    /*background-color: #666666;*/
+}
+.oneonone {
+width: 341px;
+margin-left: 10px;
+}
+.para{
+    margin-top: 10px;
+  color: #111;
+  font-family: 'Helvetica Neue',
+  sans-serif;
+  font-weight: bold;
+  letter-spacing: -1px;
+  line-height: 1;
+  text-align: center;
+}
